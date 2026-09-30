@@ -4,8 +4,6 @@
 
 ### Backend Developer
 
-백엔드 개발자입니다. 금융 분야에 관심이 있습니다.
-
 </div>
 
 ## Tech Stack
